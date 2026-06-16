@@ -1,3 +1,4 @@
+
 # 🛡️ Cyberbullying Detection Using NLP and Machine Learning
 
 An AI-powered web application that detects cyberbullying content in text using Natural Language Processing (NLP), TF-IDF Vectorization, and Machine Learning.
@@ -23,6 +24,7 @@ The system performs:
 - Machine Learning Classification
 - Real-Time Prediction through Web Application
 
+
 ---
 
 ## 🎯 Objectives
@@ -32,6 +34,9 @@ The system performs:
 - Convert text into machine-readable features using TF-IDF.
 - Train a Machine Learning classification model.
 - Deploy the model as an interactive web application.
+<img width="741" height="260" alt="pic 2" src="https://github.com/user-attachments/assets/63464307-5bef-4a6e-85c0-809ba9a319ef" />
+
+
 
 ---
 
@@ -45,6 +50,8 @@ The system performs:
 - TF-IDF Vectorization
 - Streamlit
 - GitHub
+<img width="1120" height="590" alt="pic 4" src="https://github.com/user-attachments/assets/dc96f41c-63af-44de-a8f1-74361f51725e" />
+
 
 ---
 
@@ -88,21 +95,18 @@ Cyberbullying-Detection-Project/
 
 ### Web Application Home Page
 
-![Home Page](images/homepage.png)
+<img width="792" height="411" alt="pic 1" src="https://github.com/user-attachments/assets/7cf69413-a73c-4b7a-959f-6f48c8ed9c83" />
+
 
 ---
 
 ### Prediction Example
 
-![Prediction](images/prediction.png)
+<img width="737" height="406" alt="pic 3" src="https://github.com/user-attachments/assets/82dd65f5-4555-47ac-a067-6fe344b3ddfa" />
 
 ---
 
-### Model Training
 
-![Training](images/model_training.png)
-
----
 
 ## ⚙️ Installation
 
