@@ -3,7 +3,7 @@
 
 An AI-powered web application that detects cyberbullying content in text using Natural Language Processing (NLP), TF-IDF Vectorization, and Machine Learning.
 
-## 🚀 Live Demo
+## 🚀 Explore here
 
 🌐 Streamlit App:
 https://cyberbullying-detection-project-wc6brtydy5i9z5jjh5t9dn.streamlit.app/
