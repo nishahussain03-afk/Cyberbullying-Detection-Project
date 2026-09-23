@@ -1,16 +1,16 @@
 
-# 🛡️ Cyberbullying Detection Using NLP and Machine Learning
+#  Cyberbullying Detection Using NLP and Machine Learning
 
 An AI-powered web application that detects cyberbullying content in text using Natural Language Processing (NLP), TF-IDF Vectorization, and Machine Learning.
 
-## 🚀 Explore here
+##  Explore here
 
-🌐 Streamlit App:
+ Streamlit App:
 https://cyberbullying-detection-project-wc6brtydy5i9z5jjh5t9dn.streamlit.app/
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Cyberbullying has become a major issue across social media platforms and online communities.
 
@@ -27,7 +27,7 @@ The system performs:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Detect cyberbullying messages automatically.
 - Apply NLP techniques for text preprocessing.
@@ -40,7 +40,7 @@ The system performs:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -55,7 +55,7 @@ The system performs:
 
 ---
 
-## 🤖 AI & Machine Learning Workflow
+##  AI & Machine Learning Workflow
 
 User Text
 ↓
@@ -71,7 +71,7 @@ Prediction Result
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Cyberbullying-Detection-Project/
 
@@ -91,7 +91,7 @@ Cyberbullying-Detection-Project/
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 ### Web Application Home Page
 
