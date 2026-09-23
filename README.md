@@ -105,10 +105,10 @@ Cyberbullying-Detection-Project/
 <img width="737" height="406" alt="pic 3" src="https://github.com/user-attachments/assets/82dd65f5-4555-47ac-a067-6fe344b3ddfa" />
 
 ---
+ 
 
 
-
-## ⚙️ Installation
+##  Installation
 
 Clone the repository
 
